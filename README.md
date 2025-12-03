@@ -27,11 +27,10 @@ Class imbalance has also been taken care of using SMOTE.
 The best model: XGboost classifier
 performance metrics:
 ROC_AUC score- 0.93
-               precision    recall  f1-score   support
-
+              
+                precision    recall  f1-score   support
            0       0.97      0.97      0.97       846
            1       0.86      0.89      0.88       195
-
     accuracy                           0.95      1041
    macro avg       0.92      0.93      0.92      1041
 weighted avg       0.95      0.95      0.95      1041
